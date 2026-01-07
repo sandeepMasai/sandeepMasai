@@ -91,7 +91,8 @@ Frontend Developer with hands-on experience building **production-grade web appl
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=sandeepMasai&theme=radical&margin-w=4)
+[![](https://github-profile-trophy.vercel.app/?username=sandeepMasai&theme=radical&margin-w=4)](https://github-profile-trophy.vercel.app/?username=sandeepMasai
+)
 
 ---
 
